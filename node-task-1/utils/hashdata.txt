@@ -1,0 +1,4 @@
+./hashdata.txt  5e6f246df54a2b48ca21cd56c7aeba4da5630de195797df9806ddba3e0b02ee9  d41d8cd98f00b204e9800998ecf8427e
+./test/another-test-dir/readme-another-test.md  cbf73cb29a5b4c915b7934b41edb87aea81c030eaf4fd40eeb6394854c37045c  de8b9f51006904da5d595f1a7624cdd9
+./readme.txt  a3c10753fcf9c8d3bb72c3629b445ffdf98d70c97df358c33c78cf3e3326d0ec  64e35a983a3f7be7d20d15b1e1368aec
+./test/readme-test.md  ef9f7b03ccd91f05a9116b7df0dc132ae741337685c283431e4312c5098355fb  6bf100ffd56d6df220aa1da4dc0cfbe2
